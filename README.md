@@ -24,10 +24,10 @@
 Стандартная установка. В папке /database/ лежит дамп базы данных. 
 
 
-##Ссылки 
+## Ссылки 
 
 - https://mailtrap.io/blog/laravel-mail-queue/
--https://code.tutsplus.com/ru/tutorials/how-to-send-emails-in-laravel--cms-30046 
--https://laravel.com/docs/8.x/validation#authorizing-form-requests
+- https://code.tutsplus.com/ru/tutorials/how-to-send-emails-in-laravel--cms-30046 
+- https://laravel.com/docs/8.x/validation#authorizing-form-requests
 
 
